@@ -1,7 +1,7 @@
 # ProtonVPNEncryption
 Reverse engineered protonvpn auth data encryption
 
-###Use as:
+### Use as:
 1. Do post request
    URL: https://api.protonvpn.ch/auth/info
    Headers:
